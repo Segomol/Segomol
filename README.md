@@ -7,3 +7,8 @@ This Data Analysis project is aimed at presenting the result of sales genrated f
 
 ### Data Sources
 The primary source of Data used here is Data Sales.csv and this is an open source data that can be downloaded from an open source online like Data.org, Google Dataset Search, etc.
+
+### Tools Used
+- Microsoft Excel for Data Cleaning, Data Analysis and Data Visualization
+- SQL - Structured Query Language for Quering of Data
+- Github for Portfolio Building
